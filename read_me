@@ -1,1 +1,7 @@
-Test
+Hi!
+
+Here I try to extract data from the election commision website and use in ananlyse the performance state, constituency, party and alliance wise.
+
+The major modules used are pandas, numpy for analyzing and requests for extracting data. 
+
+Some data already available is manually downloaded from the website
