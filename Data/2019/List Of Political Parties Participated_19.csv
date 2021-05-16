@@ -1,0 +1,674 @@
+﻿Sr.No.,PARTY TYPE,ABBREVIATION,PARTY NAME
+1,N,AITC,All India Trinamool Congress
+2,N,BJP,Bharatiya Janata Party
+3,N,BSP,Bahujan Samaj Party
+4,N,CPI,Communist Party of India
+5,N,CPIM,Communist Party of India (Marxist)
+6,N,INC,Indian National Congress
+7,N,NCP,Nationalist Congress Party
+8,S,AAAP,Aam Aadmi Party
+9,S,ADMK,All India Anna Dravida Munnetra Kazhagam
+10,S,AGP,Asom Gana Parishad
+11,S,AIFB,All India Forward Bloc
+12,S,AIMIM,All India Majlis-E-Ittehadul Muslimeen
+13,S,AINRC,All India N.R. Congress
+14,S,AIUDF,All India United Democratic Front
+15,S,AJSUP,AJSU Party
+16,S,BJD,Biju Janata Dal
+17,S,BLSP,Rashtriya Lok Samta Party
+18,S,BOPF,Bodoland Peoples Front
+19,S,DMDK,Desiya Murpokku Dravida Kazhagam
+20,S,DMK,Dravida Munnetra Kazhagam
+21,S,INLD,Indian National Lok Dal
+22,S,IPFT,Indigenous People's Front of Tripura
+23,S,IUML,Indian Union Muslim League
+24,S,JD(S),Janata Dal  (Secular)
+25,S,JD(U),Janata Dal  (United)
+26,S,JKN,Jammu & Kashmir National Conference
+27,S,JKNPP,Jammu & Kashmir National Panthers Party
+28,S,JKPDP,Jammu & Kashmir Peoples Democratic Party
+29,S,JMM,Jharkhand Mukti Morcha
+30,S,JVM,Jharkhand Vikas Morcha (Prajatantrik)
+31,S,KEC(M),Kerala Congress  (M)
+32,S,LJP,Lok Jan Shakti Party
+33,S,MNF,Mizo National Front
+34,S,NDPP,Nationalist Democratic Progressive Party
+35,S,NPEP,National People's Party
+36,S,NPF,Naga Peoples Front
+37,S,PMK,Pattali Makkal Katchi
+38,S,PPA,People's Party of Arunachal
+39,S,RJD,Rashtriya Janata Dal
+40,S,RLD,Rashtriya Lok Dal
+41,S,RSP,Revolutionary Socialist Party
+42,S,SAD,Shiromani Akali Dal
+43,S,SDF,Sikkim Democratic Front
+44,S,SHS,Shivsena
+45,S,SKM,Sikkim Krantikari Morcha
+46,S,SP,Samajwadi Party
+47,S,TDP,Telugu Desam
+48,S,TRS,Telangana Rashtra Samithi
+49,S,UDP,United Democratic Party
+50,S,YSRCP,Yuvajana Sramika Rythu Congress Party
+51,U,AABHAP,Aajad Bharat Party (Democratic)
+52,U,AACP,Adarshwaadi Congress Party
+53,U,AAHPty,Aap Aur Hum Party
+54,U,AAM,Aam Adhikar Morcha
+55,U,AAPP,Aapki Apni Party (Peoples)
+56,U,ABD,Adim Bhartiya Dal
+57,U,ABEP,Akhil Bhartiya Ekata Party
+58,U,ABGP,Akhil Bhartiya Gondwana Party
+59,U,ABHM,Akhil Bharat Hindu Mahasabha
+60,U,ABHP,Adhunik Bharat Party
+61,U,ABHS,Akhil Bharatiya Sena
+62,U,ABJS,Akhil Bharatiya Jan Sangh
+63,U,ABLP,Akhil Bhartiya Lok Dal
+64,U,ABML(S),Akhil Bharatiya Muslim League (Secular)
+65,U,ABMP,Akhil Bharatiya Manavata Paksha
+66,U,ABNNP,Akhil Bhartiya Navnirman Party
+67,U,ABSKP,Akhil Bharat Samagra Kranti Party
+68,U,ABSSP,Akhil Bhartiya Sarvadharma Samaj Party
+69,U,ACDP,Anti Corruption Dynamic Party
+70,U,ACP,Andhra Chaitanya Party
+71,U,ADAL,Apna Dal (Soneylal)
+72,U,ADPT,Apna Desh Party
+73,U,ADRP,Assam Dristi Party
+74,U,ADRSP,Adarsh Samaj Party
+75,U,ADUP,Apna Dal United Party
+76,U,AgIMK,Agila India Makkal Kazhagam
+77,U,AHFBK,Akhil Hind Forward Bloc (Krantikari)
+78,U,AHIMSASP,Ahimsa Socialist Party
+79,U,AHNP,Aihra National Party
+80,U,aicp,New All India Congress Party
+81,U,AIDMMK,Ahila India Dhayaga Makkal Munnetra Katchi
+82,U,AIJAP,All India Jana Andolan Party
+83,U,AIMAK,Anaithu Makkal Katchi
+84,U,AIMF,All India Minorities Front
+85,U,AINHCP,All India Hindustan Congress Party
+86,U,AINPP,All India Praja Party
+87,U,AIP,All Indians Party
+88,U,AIPF,All India Peoples' Front (Radical)
+89,U,AIPTMMK,All  India Puratchi Thalaivar Makkal Munnettra Kazhagam
+90,U,AIRCP,All Indian Rajiv Congress Party
+91,U,AIUC,All India Ulama Congress
+92,U,AIUUK,All India Uzhavargal Uzhaippalargal Katchi
+93,U,AIVP,Akila India Vallalar Peravai
+94,U,AJM,Asom Jana Morcha
+95,U,AJNSP,Aadarsh Janata Sewa Party
+96,U,AJPI,Aam Janta Party (India)
+97,U,AJPR,Aam Janta Party Rashtriya
+98,U,AKBHAD,Akhil Bhartiya Apna Dal
+99,U,AKBJHP,Akhil Bhartiya Jharkhand Party
+100,U,AKBMP,Akhil Bhartiya Mithila Party
+101,U,AKHP,Akhand Hind Party
+102,U,AKSP,Akhand Samaj Party
+103,U,ALHP,Al-Hind Party
+104,U,ALINLBP,All India Labour Party
+105,U,ALoP,Aasra Lokmanch Party
+106,U,AlPP,All Peoples Party
+107,U,AMB,Amra Bangalee
+108,U,AMiP,Aadarsh Mithila Party
+109,U,AMKP,Azad Mazdoor Kissan Party
+110,U,AMPK,Anaithu Makkal Puratchi Katchi
+111,U,AnAP,Anjaan Aadmi Party
+112,U,ANC,Ambedkar National Congress
+113,U,ANIJP,Andaman & Nicobar Janta Party
+114,U,ANNADATA,Annadata Party
+115,U,ANRP,Adarsh Nyay Rakshak Party
+116,U,ANSP,Ahinsa Samaj Party
+117,U,APEP,All Pensioner’s Party
+118,U,APKSP,Apna Kisan Party
+119,U,APoI,Ambedkarite Party of India
+120,U,ARK,Akhand Rashtrawadi Party
+121,U,ARP,Ambedkarist Republican Party
+122,U,ARPS,Andhra Rastra Praja Samithi
+123,U,ASaP,Awami Samta Party
+124,U,ASDC,Autonomous State Demand Committee
+125,U,ASDHP,Asli Deshi Party
+126,U,ASGP,Aadarsh Sangram Party
+127,U,ASJP,Apna Samaj Party
+128,U,ASP,Ambedkar Samaj Party
+129,U,ATBP,Atulya Bharat Party
+130,U,AVIRP,AARAKSHAN VIRODHI PARTY
+131,U,AVVP,Adhikar Vikas Party
+132,U,AYP,Ambedkar Yug Party
+133,U,AYSRCP,Anna YSR Congress Party
+134,U,BAAP,Bharat Jan Aadhar Party
+135,U,BAEP,Bharatiya Aavaam Ekta Party
+136,U,BaHaP,Bhartiya Harit Party
+137,U,BAHUMP,Bahujan Maha Party
+138,U,BaJD,Bhartiya Janta Dal
+139,U,BALP,Baliraja Party
+140,U,BARESP,Bahujan Republican  Socialist Party
+141,U,BARP,Bhartiya Anarakshit Party
+142,U,BaSaPa,Bhartiya Sarvodaya Party
+143,U,BaVaP,Bhartiya Vanchitsamaj Party
+144,U,BAWPA,Bahujan Awam Party
+145,U,BBC,Bharatiya Bahujan Congress
+146,U,BBKD,BhartiyaBahujanKranti Dal
+147,U,BBM,Bharipa Bahujan Mahasangh
+148,U,BBMP,Bharat Bhrashtachar Mitao Party
+149,U,BBPP,Bharatiya Bahujan Parivartan  Party
+150,U,BCUF,B. C. United Front
+151,U,BDJS,Bharath Dharma Jana Sena
+152,U,BDlP,Bhartiya Dalit Party
+153,U,BDPty,Bharatrashtra Democratic Party
+154,U,BEPP,Bhapase Party
+155,U,BGanP,Bharatiya Gana Parishad
+156,U,BHABHAPA,Bhartiya Bhaichara Party
+157,U,BHAIP,Bhartiya Insan Party
+158,U,BhAmAP,Bharatiya Aam Awam Party
+159,U,BHAPRAP,Bharat Prabhat Party
+160,U,BhaRP,Bhartiya Rashtrawadi Party
+161,U,BHAZS,Bhartiya Azad Sena
+162,U,BHBHP,Bharat Bhoomi Party
+163,U,BHBP,Bharatiya Bahujan Party
+164,U,BhBSP,Bharatiya Bahujan Samta Party
+165,U,BHHF,Bhartiya Hind Fauj
+166,U,BHJMP,Bharatiya Jan Morcha Party
+167,U,BHMP,Bharateeya Manavadhikar party
+168,U,BhNP,Bharat Nirman Party
+169,U,BHPP,Bharatiya Peoples Party
+170,U,BHTJP,Bhartiya Janraj Party
+171,U,BIP,Bharatiya Inqalab Party
+172,U,BJAZP,Bahujan Azad Party
+173,U,bjdi,Bhartiya Janta Dal (Integrated)
+174,U,BJKD,Bharatiya Jan Kranti Dal (Democratic)
+175,U,BJKVP,Bajjikanchal Vikas Party
+176,U,BJNP,Bhartiya Jan Nayak Party
+177,U,BJSAP,Bhartiya Jan Samman Party
+178,U,BJSPP,Bhartiya Jan Sampark Party
+179,U,BJSTP,Bhartiya Jan Satta Party
+180,U,BKNP,Bhartiya Kisan Party
+181,U,BKPP,Bharatiya Kisan Parivartan Party
+182,U,BKrD,Bhartiya Krishak Dal
+183,U,BKVP,Bhartiya Kranti Vir Party
+184,U,BLND,Bihar Lok Nirman Dal
+185,U,BLokSP,Bharat Lok Sewak Party
+186,U,BLRP,Bhartiya Lokmat Rashtrwadi Party
+187,U,BLSD,Bhartiya Lok Seva Dal
+188,U,bmd,Dr. Bhimrao Ambedkar Dal
+189,U,BMF,Bharatiya Momin Front
+190,U,BMFP,Bhartiya Manavadhikaar Federal Party
+191,U,BMJP,Bharatiya Majdoor Janta Party
+192,U,BMSM,Bharatiya Minorities Suraksha Mahasangh
+193,U,BMtrP,Bhartiya Mitra Party
+194,U,BMUP,Bahujan Mukti Party
+195,U,BMVSP,Bhartiya Manav Samaj Party
+196,U,BNARP,Bharatiya Nyay-Adhikar Raksha Party
+197,U,BNavP,Bhartiya Navodaya Party
+198,U,BND,Bhartiya Nojawan Dal
+199,U,BNDl,Bahujan Nyay Dal
+200,U,BNIP,Bhartiya Naujawan Inklav Party
+201,U,BNJD,Bharatiya National Janta Dal
+202,U,bns,Bhartiya Navjawan Sena (Paksha)
+203,U,BNSKP,Bhartiya New Sanskar Krantikari Party
+204,U,BPC,Bhartiya Pragatisheel Congress
+205,U,BPKP,Bharatiya Prajagala Kalyana Paksha
+206,U,BPSJP,Bharatiya Praja Surajya Paksha
+207,U,BRKP(D),Bharat Rakshak Party (Democratic)
+208,U,BRM,Bharatiya Rashtriya Morcha
+209,U,BRP,Bharatiya Rashtravadi Paksha
+210,U,BRPI,Bhartiya Republican Party (Insan)
+211,U,BRPPA,Bahujana Raajyam Party (Phule Ambedkar)
+212,U,BRSP,Bharatiya Rashtravadi Samanta Party
+213,U,BSCP,Bhartiya Shakti Chetna Party
+214,U,BSDL,Bahujan Suraksha Dal
+215,U,BSHSP,Bhartiya Sarvjan Hitey Samaj Party
+216,U,BSKP,Bharatiya Sarvodaya Kranti Party
+217,U,BSKRP,Bharatiya Sampuran Krantikari Party
+218,U,BSP(A),Bahujan Samaj Party  (Ambedkar)
+219,U,BSPM,Bahujan Samyak Party (Mission)
+220,U,BSSPA,Bharatiya Samta Samaj Party
+221,U,BSUSP,Bhartiya Kisan Union Samaj Party
+222,U,BTARP,Bhartiya Amrit Party
+223,U,BTP,Bhartiya Tribal Party
+224,U,BUNKD,Bundelkhand Kranti Dal
+225,U,BVA,Bahujan Vikas Aaghadi
+226,U,BYPP,Bhartiya Panchyat Party
+227,U,CDF,Christian Democratic Front
+228,U,CHALP,Challengers Party
+229,U,CHKAP,Chandigarh Ki Aawaz Party
+230,U,CoAP,Corruption Abolition Party
+231,U,CPI(ML)(L),Communist Party of India  (Marxist-Leninist) (Liberation)
+232,U,CPIM(ML)RS,Communist Party of India (Marxist-Leninist) Red Star
+233,U,CSM,Chhattisgarh Swabhiman Manch
+234,U,cvgrp,Chhattisgarh Vikas Ganga Rashtriya Party
+235,U,DABAP,Dalita Bahujana Party
+236,U,DCLF,Democratic Corruption Liberation Front
+237,U,DJHP,Desh Janhit Party
+238,U,DKSP,Daksha Party
+239,U,DMSK,Desiya Makkal Sakthi Katchi
+240,U,DPI,Democratic Party of India
+241,U,DPIN,Democratic Party of India (Ambedkar)
+242,U,DPPS,Democratic Prajakranthi Party Secularist
+243,U,DSPVAD,Dalit Soshit Pichhara Varg  Adhikar Dal
+244,U,DSSP,"Dogra Swabhiman Sangathan Party,"
+245,U,DUUK,Desiya Uzhavar Uzhaipalar Kazhagam
+246,U,EP,Engineers Party
+247,U,ESP,Ekta Samaj Party
+248,U,ETMK,Ezhuchi Tamilargal Munnetra Kazhagam
+249,U,FDLP,Forward Democratic Labour Party
+250,U,FIP,The Future India Party
+251,U,FJP,Fauji Janta Party
+252,U,FPI,Freethought Party of India
+253,U,GaAP,Gareeb Aadmi Party
+254,U,GAGUP,Garvi Gujarat Party
+255,U,GGP,Gondvana Gantantra Party
+256,U,GJNP,Garib Janshakti Party
+257,U,GJPP,Gujarat Janta Panchayat Party
+258,U,GPI,Ganasangam Party of India
+259,U,grac,Gorkha Rashtriya Congress
+260,U,HAMS,Hindustani Awam Morcha (Secular)
+261,U,HAPa,Hamari Apni Party
+262,U,HBP,Hum Bhartiya Party
+263,U,HCP,Hind Congress Party
+264,U,HIMJKP,Himachal Jan Kranti Party
+265,U,HiPPa,Hindusthan Praja Paksha
+266,U,HJP,Hindustan Janta Party
+267,U,HMRD,Hardam Manavtawadi Rashtriya Dal
+268,U,HMSKP,Hamro Sikkim Party
+269,U,HND,Hindusthan Nirman Dal
+270,U,HSP,Hindu Samaj Party
+271,U,HSS,Hindustan Shakti Sena
+272,U,HuSP,Hum Sabki Party
+273,U,ICF,Indian Christian Front
+274,U,IDRP,Indian Democratic Republican Front
+275,U,igp,Indian Gandhiyan Party
+276,U,IICR,Indian Indira Congress (R)
+277,U,ILP(AP),Indian Labour Party (Ambedkar Phule)
+278,U,IMK,Ilantamilar Munnani Kazhagam
+279,U,INCP,Indian New Congress Party
+280,U,INDPP,Independent People’s Party
+281,U,INL,Indian National League
+282,U,IPBP,India Praja Bandhu Party
+283,U,IPGP,Indian Peoples Green Party
+284,U,IRNP,Indian Rakshaka Nayakudu Party
+285,U,IUC,Indian Unity Centre
+286,U,IVD,Inqalab Vikas Dal
+287,U,JAAP,Jan Adesh Akshuni Sena
+288,U,JAC,Janata Congress
+289,U,JAJGP,Jana Jagruti Party
+290,U,JANADIP,Jan Adhikar Party
+291,U,JANKRPR,Janta Kranti Party (Rashtravadi)
+292,U,JANSAPP,Jan Satya Path Party
+293,U,JanSP,Janral Samaj Party
+294,U,JAPL,Jan Adhikar Party (Loktantrik)
+295,U,JaSD,Jan Shakti Dal
+296,U,JASP,Jan Sangh Party
+297,U,JaSSP,Jan Seva Sahayak Party
+298,U,JASWP,Jai Swaraj Party
+299,U,JD,Jwala Dal
+300,U,JDL,Jansatta Dal Loktantrik
+301,U,JDR,Janta Dal Rashtravadi
+302,U,JeSM,Jamat-E-Seratul Mustakim
+303,U,JGHTP,Jago Hindustan Party
+304,U,JHAP,Jharkhand Anushilan Party
+305,U,JHBHP,Janhit Bharat Party
+306,U,JHP,Jai Hind Party
+307,U,jhspt,Jai Hind Samaj Party
+308,U,JJJKP,Jai Jawan Jai Kisan Party
+309,U,JKiP,Janhit Kisan Party
+310,U,JKP,Jharkhand Party
+311,U,JKP(N),Jharkhand Party  (Naren)
+312,U,JKPP,Jharkhand People's Party
+313,U,JKPPAP,Jammu & Kashmir Pir Panjal Awami Party
+314,U,JKPS,"Jharkhand Party (Secular),"
+315,U,JLokP,Jai Lok Party
+316,U,JMBP,Jai Maha Bharath Party
+317,U,JMM(U),Jharkhand Mukti Morcha  (Ulgulan)
+318,U,JNJP,Jannayak Janta Party
+319,U,JnP,Janasena Party
+320,U,JNSMP,Jan Samman party
+321,U,JP,Janata Party
+322,U,JPC,Jammu & Kashmir People Conference
+323,U,JPD,Janapaalana Party (Democratic)
+324,U,JPJD,Jai Prakash Janata Dal
+325,U,JPS,Janvadi Party(Socialist)
+326,U,JRPa,Janta Raj Party
+327,U,JRVP,Janta Raj Vikas Party
+328,U,JSEP,Jan Shakti Ekta Party
+329,U,JSP,Jansatta Party
+330,U,JSVP,Jan Sangharsh Virat Party
+331,U,JTVP,Jantantrik Vikas Party
+332,U,JVBP,Jai Vijaya Bharathi Party
+333,U,kajp,Kalyankari Jantantrik Party
+334,U,KARASP,Kartavya Rashtriya Party
+335,U,KBD,Kanshiram Bahujan Dal
+336,U,KCVP,Kannada Chalavali Vatal Paksha
+337,U,KEC,Kerala Congress
+338,U,KHSNP,Khusro Sena Party
+339,U,KJP,Karnataka Jantha Paksha
+340,U,KKJHS,Kranti Kari Jai Hind Sena
+341,U,KKMP,Karnataka Karmikara Paksha
+342,U,KMBS,Kisan Majdoor Berojgar Sangh
+343,U,KMSP,Kisan Mazdoor Sangharsh Party
+344,U,KPJP,Karnataka Pragnyavantha Janatha Party
+345,U,KPOI,Kisan Party of India
+346,U,KPPR,Karnataka Praja Party (RaithaParva)
+347,U,KPPU,Kamatapur People’s Party (United)
+348,U,KRUP,Krupaa Party
+349,U,KS,Kalinga Sena
+350,U,KSRP,"Kisan Raj Party,"
+351,U,KSRSP,"Kisan Raksha Party,"
+352,U,LAJSP,Loktantrik Jan Swaraj Party
+353,U,LCD,Lok  Chetna  Dal
+354,U,LD,Lok Dal
+355,U,LIP,Lok Insaaf Party
+356,U,LJGP,Lokjagar Party
+357,U,LJSPty,Lok Jan Sangharsh Party
+358,U,LJVM,Lok Jan Vikas Morcha
+359,U,LKSGM,Loksangram
+360,U,LOGAP,Lok Gathbandhan Party
+361,U,LOKJANP,Loktantrik Janshakti Party
+362,U,LoRP,Loktantrik Rashrtavadi Party
+363,U,LPSP,Lokpriya Samaj Party
+364,U,LSD,Lok Sewa Dal
+365,U,LTSP,Loktanter Suraksha Party
+366,U,MADP,Moulik Adhikar Party
+367,U,MAHKRS,Maharashtra Kranti Sena
+368,U,ManJP,Maanavvaadi Janta Party
+369,U,ManKP,Manav Kranti Party
+370,U,MaNPa,Manvadhikar National Party
+371,U,MARD,Mera Adhikaar Rashtriya Dal
+372,U,MCPI,Marxist Communist Party of India (United)
+373,U,MDKMGPH,Mazdoor Dalit Kisaan Mahila Gareeb Party (Hindustani)
+374,U,MDPF,Manipur Democratic Peoples's Front
+375,U,MHD,Mahamukti Dal
+376,U,mimm,Mithilanchal Mukti Morcha
+377,U,MKat,Makkalatchi Katchi
+378,U,MKDVP,Mazdoor Kirayedar Vikas Party
+379,U,MKUP,Majdoor Kisan Union Party
+380,U,MLPOIRF,Marxist Leninist Party of India (Red Flag)
+381,U,MMKA,Tamizhaga Murpokku Makkal Katchi
+382,U,MNDP,Minorities Democratic Party
+383,U,MNM,Makkal Needhi Maiam
+384,U,MNVP,Manuvadi Party
+385,U,MOSP,Moolniwasi Samaj Party
+386,U,MPEP,Manipur People’s Party
+387,U,MPJVP,Madhya Pradesh Jan Vikas Party
+388,U,MPOI,Mulnibasi Party of India
+389,U,MPP,Mundadugu Praja Party
+390,U,MSHP,"Maharashtra Swabhimaan Paksh,"
+391,U,MSJP,Mahasankalp Janta Party
+392,U,MSKK,"Makkal Sananayaga Kudiyarasu Katchi,"
+393,U,MwSP,Manavtawadi Samaj Party
+394,U,MYSP,Mahila & Yuva Shakti Party
+395,U,NABMUP,National Bhrashtachar Mukt Party
+396,U,NALAP,National Labour Party
+397,U,NaLP,National Lokmat Party
+398,U,NAP,Naitik Party
+399,U,NAPt,National Apni Party
+400,U,NATJUP,Nationalist Justice Party
+401,U,NATWOMP,National Women's Party
+402,U,NavaP,Navataram Party
+403,U,NAWPP,Nawan Punjab Party
+404,U,NDDHP,National Dalitha Dhal Party
+405,U,NDEP,National Development Party
+406,U,NDPOI,New Democratic Party of India
+407,U,NED,Navbharat Ekta Dal
+408,U,NEINDP,North East India Development Party
+409,U,NEP,Nagrik Ekta Party
+410,U,NFFF,National Fifty Fifty Front
+411,U,NIDP,Naam Indiar Party
+412,U,NIP,New India Party
+413,U,NIRBHP,Nirbhay Bharteey Party
+414,U,NJANP,Nationalist Janshakti Party
+415,U,NJP,National Jagaran Party
+416,U,NNKP,National Nava Kranthi Party
+417,U,NNMP,Navnirman Party
+418,U,NNP,Navbharat Nirman Party
+419,U,NPRP,Nava Praja Rajyam Party
+420,U,NPSF,Nationalist People's Front
+421,U,NPT,Navodayam Party
+422,U,NRCong,National Republican Congress
+423,U,NRCP,Navarang Congress Party
+424,U,NSBHP,Navsarjan Bharat Party
+425,U,NSCBRAP,Netaji Subhash Chander Bose Rashtriya Azad Party
+426,U,NTK,Naam Tamilar Katchi
+427,U,NVSP,Nava Samaj Party
+428,U,NYP,National Youth Party
+429,U,OPD,Odisha Pragati Dal
+430,U,PAP,Prajatantra Aadhar Party
+431,U,PBI,"Proutist Bloc, India"
+432,U,PDP,Peoples Democratic Party
+433,U,PDS,Party for Democratic Socialism
+434,U,PECP,Peace Party
+435,U,PGSP,Pragatisheel Samaj Party
+436,U,PHJSP,Prahar Janshakti Party
+437,U,PHRC,Poorvanchal Rashtriya Congress
+438,U,PHSP,Pichhra Samaj Party
+439,U,pjdl,Prem Janata Dal
+440,U,PJSP,Prajaa Swaraaj Party
+441,U,PLM,Pragatisheel Lok Manch
+442,U,PLP,Punjab Labour Party
+443,U,PMP,Public Mission Party
+444,U,PMPT,Purvanchal Mahapanchayat
+445,U,PMSP,Pragatisheel Manav Samaj Party
+446,U,PNP,Pravasi Nivasi Party
+447,U,PPID,Peoples Party of India (Democratic)
+448,U,PPIS,People's Party of India(secular)
+449,U,PPOI,Pyramid Party of India
+450,U,PRCP,Prabuddha Republican Party
+451,U,PRISM,Prism
+452,U,PRISMP,Peoples Representation for Identity and Status of Mizoram (PRISM) Party
+453,U,PRJP,Prithviraj Janshakti Party
+454,U,PRSHP,Praja Shanthi Party
+455,U,PRSP,Prajatantrik Samadhan Party
+456,U,PrStP,Praja Satta Party
+457,U,PSJP,Parivartan Samaj Party
+458,U,PSPL,Pragatishil Samajwadi Party (Lohia)
+459,U,PSPU,Pichhara Samaj Party United
+460,U,PSS,Proutist Sarva Samaj
+461,U,PUDEP,Puducherry Development  Party
+462,U,PUJP,Purvanchal Janta Party (Secular)
+463,U,PUNEKP,Punjab Ekta Party
+464,U,PUNP,People’s Union Party
+465,U,RaAD,Rashtriya Ambedkar Dal
+466,U,RABSP,Rashtriya Bhagidari Samaj Party
+467,U,RACHEP,Rashtrawadi Chetna Party
+468,U,RADM,Rashtriya Azad Manch
+469,U,RAHIS,Rashtriya Hind Sena
+470,U,RAHM,Rashtriya Ahinsa Manch
+471,U,RAIM,Rashtriya Indepndent Morcha
+472,U,RaIP,Rastriya Insaaf Party
+473,U,RAJADP,Rashtriya Jan  Adhikar Party
+474,U,RaJPa,Rashtriya Jankranti Party
+475,U,rajpt,Rashtriya Janmat Party
+476,U,RaJSP,Rashtriya Janadhikar Suraksha Party
+477,U,RAJSPty,Rastriya Aam Jan Seva Party
+478,U,RAJUP,Rashtriya Janutthan Party
+479,U,RAKRD,Rashtravadi Kranti Dal
+480,U,RaNP,Rashtra Nirman Party
+481,U,RAPI,"Rashtrawadi Party of India,"
+482,U,RAPty,Rashtriya Aamjan Party
+483,U,RASAP,Rashtriya Sahara Party
+484,U,RASHLSP,Rashtriya Lok Sarvadhikar  Party
+485,U,RASJGP,Rashtriya Jan Gaurav Party
+486,U,RasLP,Rashtriya Lokswaraj Party
+487,U,RASMARP,Rashtriya Maratha Party
+488,U,ravp,Rajnaitik Vikalp Party
+489,U,RBCP,Rashtriya Bahujan Congress Party
+490,U,RBJJP,Rashtriya Bharatiya Jan Jan Party
+491,U,RBP,Rashtriya Backward Party
+492,U,RBS,Republican Bahujan Sena
+493,U,RD,Radical Democrats
+494,U,RDHP,Rajyadhikara Party
+495,U,RDU,Rashtriya Dal United
+496,U,REALDP,Real Democracy Party
+497,U,RGD,Rashtriya Garib Dal
+498,U,RGOP,Rashtriya Gondvana Party
+499,U,RHSP,Rashtriya Samrasta Party
+500,U,RJanPty,Rashtriya Jansurajya Party
+501,U,RJANSWP,Rashtriya Jansangharsh Swaraj Party
+502,U,RJAPU,Rashtriya Jan Adhikar Party (United)
+503,U,RJAVP,Rashtriya Jatigat Aarakshan Virodhi Party
+504,U,RJBP,Rashtriya Jansambhavna Party
+505,U,RJBVP,Rashtriya Jantantrik Bharat Vikas Party
+506,U,RJNP,Rashtriya Janasachetan Party (R.J.P.)
+507,U,RJnPty,Rashtriya Jansena Party
+508,U,RJPD,Rashtriya Janvikas Party (Democratic)
+509,U,RJsbhP,Rashtriya Jansabha Party
+510,U,RJSNP,Rashtriya Janhit Sangharsh Party
+511,U,RJSPS,Rashtriya Janshakti Party (Secular)
+512,U,RKSP,Rashtriya Krantikari Samajwadi Party
+513,U,RLTP,Rashtriya Loktantrik Party
+514,U,RMEP,Rashtriya Mazdoor Ekta Party
+515,U,RMGLMP,Rashtriya Mangalam Party
+516,U,RMGP,Rashtriya mahan Gantantra Party
+517,U,RMMP,Rashtriya Matadata Party
+518,U,RMPOI,Revolutionary Marxist Party of India
+519,U,RND,Rashtriya Naujawan Dal
+520,U,RNNBP,Rashtriya Nav Nirman Bharat Party
+521,U,RP(K),Republican Paksha (Khoripa)
+522,U,RPB,Rashtravadi Party (Bharat)
+523,U,RPC(S),Rashtriya Praja Congress  (Secular)
+524,U,RPI,Republican Party of India
+525,U,RPI(A),Republican Party of India (A)
+526,U,RPI(KH),Republican Party of India (Khobragade)
+527,U,RPI(KM),Republican Party of India  (Kamble)
+528,U,RPIE,Republican Party of India Ektavadi
+529,U,RPIK,Republican Party of India (Karnataka)
+530,U,RPIR,Republican Party of India (Reformist)
+531,U,RPP,Rashtriya Pragati Party
+532,U,rpsn,Republican Sena
+533,U,RPWP,Rashtriya Power Party
+534,U,RRP,Rashtriya Rashtrawadi Party
+535,U,RRS,Rayalaseema Rashtra Samithi
+536,U,RsAD,Rashtriya Apna Dal
+537,U,RSDal,Rashtrawadi Shramjeevi Dal
+538,U,RSJVP,Rashtriya Sarvjan Vikas Party
+539,U,RSMD,Rashtriya Samanta Dal
+540,U,RSOSP,Rashtriya Shoshit Samaj Party
+541,U,RSP(S),Rashtriya Samajwadi Party  (Secular)
+542,U,RSPS,Rashtriya Samaj Paksha
+543,U,RSPSR,Rashtriya Samta Party (Secular)
+544,U,RSTSAHP,Rashtriya Sahyog Party
+545,U,RSVP,Rashtriya Samta Vikas Party
+546,U,RSWD,Rashtra Sewa Dal
+547,U,RTAMP,Rashtriya Aadarsh Member Party
+548,U,RTBHP,Raita Bharat Party
+549,U,RTJPS,Rashtriya Janwadi Party (Socialist)
+550,U,RTKP,Rashtriya Kranti Party
+551,U,RTORP,Right to Recall Party
+552,U,RtrJP,Rashtriya Janta Party
+553,U,RTSGP,Rashtriya Sangail Party
+554,U,RUC,Rashtriya Ulama Council
+555,U,RVLP,RASHTRIYA VIKLANG PARTY
+556,U,RVNP,Rashtravadi Janata Party
+557,U,RVP,Rashtriya Vikas Party
+558,U,RVyP,Rashtriya Vyapari Party
+559,U,RVZP,Rashtra Vikas Zumbes Party
+560,U,SAAFP,Sathi Aur Aapka Faisala Party
+561,U,SABHP,Sarvodaya Bharat Party
+562,U,SABJANP,Sabhi Jan Party
+563,U,SaBP,Sankhyanupati Bhagidari Party
+564,U,SACP,Sabse Achchhi Party
+565,U,SAD(M),Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)
+566,U,SaDa,Sarvshreshth Dal
+567,U,SADSP,Saman Aadmi Saman Party
+568,U,SADT,Shiromani Akali Dal (Taksali)
+569,U,SAJP,Samajwadi Janata Party(Karnataka)
+570,U,SAKAP,Samaj Adhikar Kalyan Party
+571,U,SAKSP,Samrat Ashok Sena Party
+572,U,SamSP,Samata Samadhan Party
+573,U,SanS,Sangharsh Sena
+574,U,SANVP,Sanyukt Vikas Party
+575,U,SAPRP,Samaanya Praja Party
+576,U,SaRaPa,Sanman Rajkiya Paksha
+577,U,SaSaP,Samajwadi Samaj Party
+578,U,SatBP,Satya Bahumat Party
+579,U,SATKP,Satya Kranti Party
+580,U,SAVIPA,SARVA VIKAS PARTY
+581,U,SaVP,Samta Vikas Party
+582,U,SBM,Samaj Bhalai Morcha
+583,U,SBSP,Suheldev Bharatiya Samaj Party
+584,U,SBSPSP,Subhashwadi Bhartiya Samajwadi Party (Subhas Party)
+585,U,SDC,Secular Democratic Congress
+586,U,SDP(MP),Sarvadharam Party (Madhya Pradesh)
+587,U,SDPI,SOCIAL DEMOCRATIC PARTY OF INDIA
+588,U,SDSP,Samdarshi Samaj Party
+589,U,SDU,Sabka Dal United
+590,U,SFP,Saaf Party
+591,U,SGUP,Samagra Utthan Party
+592,U,SHF,Shane Hind Fourm
+593,U,SJDD,Samajwadi Janata Dal Democratic
+594,U,SJPA,Sarva Janata Party
+595,U,SJPI,Social Justice Party of India
+596,U,SJPT,Shri Janta Party
+597,U,SJSMP,Sajag Samaj Party
+598,U,SJVP,Sanjhi Virasat Party
+599,U,skd,Samata Kranti Dal
+600,U,SKPP,Sikkim Republican Party
+601,U,SLDP,Shiromani Lok Dal Party
+602,U,SMARTIP,Smart Indians Party
+603,U,SMFB,Samajwadi Forward Bloc
+604,U,SNP,Samajik Nyaya Party
+605,U,SoJP,Socialist Janata Party
+606,U,SP(I),Socialist Party (India)
+607,U,SPAKP,Sapaks Party
+608,U,SPL,Swaraj Party (Loktantrik)
+609,U,SPRP,Sarvodaya Prabhat Party
+610,U,SSBD,Shakti Sena (Bharat Desh)
+611,U,SSD,Shoshit Samaj Dal
+612,U,ssrd,Sanatan Sanskriti Raksha Dal
+613,U,STBP,Swatantra Bharat Paksha
+614,U,STBSP,Svatantra Bharat Satyagrah Party
+615,U,STPI,Samajtantric Party of India
+616,U,SUCI(C),SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST)
+617,U,SUSP,Sunder Samaj Party
+618,U,SUTF,Sikkim United Front
+619,U,svjn,Sarvjan Lok Shakti Party
+620,U,SVJSP,Sarvjan Sewa Party
+621,U,SVPP,Sardar Vallabhbhai Patel Party
+622,U,SwaBP,Swarna Bharat Party
+623,U,SWAJANPA,Swatantra Jantaraj Party
+624,U,SWAP,Swabhiman Party
+625,U,swbi,Swarnim Bharat Inquilab
+626,U,SWJP,Samajwadi Jan Parishad
+627,U,SWP,Swabhimani Paksha
+628,U,SWSP,Swatantra Samaj Party
+629,U,TECPI,Telangana Communist Party of India
+630,U,TELYS,Telangana Yuva Shakti
+631,U,TGPJP,Telangana Prajala Party
+632,U,TJS,Telangana Jana Samithi
+633,U,TMC(M),Tamil Maanila Congress  (Moopanar)
+634,U,TNLK,Tamil Nadu Ilangyar Katchi
+635,U,TNRMPI,The National Road Map Party of India
+636,U,ToP,Tola Party
+637,U,TRIPP,Tripura Peoples Party
+638,U,TSP,Telangana Sakalajanula Party
+639,U,TTNP,Tamil Telugu National Party
+640,U,UBM,Universal Brotherhood Movement
+641,U,UDFS,United Democratic Front Secular
+642,U,UKDD,Uttarakhand Kranti Dal (Democratic)
+643,U,UKKD,Uttarakhand Kranti Dal
+644,U,UMK,Ulzaipali Makkal Katchy
+645,U,UPJP,Uttama Prajaakeeya Party
+646,U,UPNSE,Uttar Pradesh Navnirman Sena
+647,U,UPP,UTTARAKHAND PARIVARTAN PARTY
+648,U,UPPL,"United People’s Party, Liberal"
+649,U,USIP,United States of India Party
+650,U,UtPP,Uttarakhand Pragatisheel Party
+651,U,UTSAP,United Socialist Party
+652,U,VBA,Vanchit Bahujan Aaghadi
+653,U,VCK,Viduthalai Chiruthaigal Katchi
+654,U,VCSMP,Vanchit Samaj Party
+655,U,VIP,VANCHITSAMAJ INSAAF PARTY
+656,U,VIPty,Vikas Insaf Party
+657,U,VJNP,Vishwa Jana Party
+658,U,VMMKT,Vivasayigal Makkal Munnetra Katchi
+659,U,VMSKP,"Vishwa Manav Samaj Kalyan Parishad,"
+660,U,VoP,Voters Party
+661,U,VPI,Voters Party  International
+662,U,VPP,Vyavastha Parivartan Party
+663,U,VSIP,Vikassheel Insaan Party
+664,U,VSP,Vishva SHakti Party
+665,U,WAP,Wazib Adhikar Party
+666,U,WPOI,Welfare Party Of India
+667,U,YJJP,Yuva Jan Jagriti Party
+668,U,YKP,Yuva Krantikari Party
+669,U,YSRPP,Yekikrutha Sankshema Rashtriya Praja Party
+670,U,YuS,Yuva Sarkar
+671,U,YVP,Yuva Vikas Party
+672,Z,IND,Independent
+673,Z1,NOTA,None of the Above
