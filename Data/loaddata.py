@@ -34,7 +34,7 @@ def checkduplicates(series1, series2):
 
 def convertIndianSep(num):
   a = str(num).split('.')
-  print(a)
+
   if len(a[0]) > 3:
     b = a[0][0:len(a[0])-3]
     c = ',' + a[0][len(a[0])-3:len(a[0])]
