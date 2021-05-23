@@ -155,6 +155,7 @@ ACPC_dict_2019 = dict(zip(ACPC_list_2019["AC Name"], ACPC_list_2019["PC Name"]))
 Cons_result_2021['PC Name'] = Cons_result_2021['AC Name'].apply(lambda x:  ACPC_dict_2019.get(x, "Check"))
 Cons_result_2021.sort_values(['PC Name', 'AC Name', 'Total Votes'], ascending=[True, True, False], inplace=True)
 Cons_result_2021 = Cons_result_2021.reindex(columns=['PC Name', 'AC Name', 'Candidate', 'Party', 'Total Votes', '% of Votes','All_21', 'All_19', 'All_16'])
+Cons_result_2021['AC Position'] = Cons_result_2021.groupby('AC Name').cumcount() + 1
 
 
 AC_electors_list_2019 = Cons_result_2019[["AC Name", "TOTAL ELECTORS"]].copy(deep=True)
@@ -205,6 +206,7 @@ Cons_result_2019['Postal votes'] = Cons_result_2019.apply(lambda x: trouble(x["P
 Cons_result_2019["Total Votes"] = Cons_result_2019["VOTES SECURED EVM"] + Cons_result_2019['Postal votes']
 Cons_result_2019.drop(["VOTES SECURED EVM", "Postal votes"], axis=1, inplace=True)
 Cons_result_2019.sort_values(['PC Name', 'AC Name', 'Total Votes'], ascending=[True, True, False], inplace=True)
+Cons_result_2019['AC Position'] = Cons_result_2019.groupby('AC Name').cumcount() + 1
 
 
 AC_TotalElectors_2019 = Cons_result_2019.groupby(['AC Name'])['Total Votes'].sum()
@@ -255,6 +257,8 @@ Cons_result_2016.replace(old_const_name, new_const_name, inplace=True, regex=Fal
 
 Cons_result_2016['PC Name'] = Cons_result_2016['AC Name'].apply(lambda x:  ACPC_dict_2019.get(x, "Check"))
 Cons_result_2016.sort_values(['PC Name', 'AC Name', 'Total Votes'], ascending=[True, True, False], inplace=True)
+Cons_result_2016['AC Position'] = Cons_result_2016.groupby('AC Name').cumcount() + 1
+
 
 Cons_result_2016["All_21"] = Cons_result_2016["Party"].apply(lambda x: AllianceDict_2021.get(x, "NonA"))
 Cons_result_2016["All_19"] = Cons_result_2016["Party"].apply(lambda x: AllianceDict_2019.get(x, "NonA"))
